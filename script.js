@@ -65,4 +65,4 @@ var automationInterval = setInterval(function() {
     }
 
 }, TARAMA_HIZI); 
-elimde kontenjan açılırsa otomatik ders kayıt ypaan bir otomasyon var bunu githuba atmak istiyorum
+

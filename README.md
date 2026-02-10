@@ -38,7 +38,7 @@ Bu script, üniversite OBS sistemlerinde ders kayıt dönemlerinde yaşanan kont
 1. Üniversite OBS sisteminde ders seçme ekranını açın.
 2. `F12` tuşuna basarak Geliştirici Araçlarını (Developer Tools) açın.
 3. **Console** sekmesine gelin.
-4. `obs-ders-kayit-botu.js` dosyasındaki kodları kopyalayıp buraya yapıştırın.
+4. `script.js` dosyasındaki kodları kopyalayıp buraya yapıştırın.
 5. **Enter** tuşuna basın.
 6. Sekmeyi açık tutun; bot çalıştığında konsola log düşecektir.
 
